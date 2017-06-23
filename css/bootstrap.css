@@ -591,6 +591,11 @@ ol ol {
   list-style: none;
 }
 
+.list-image {
+  padding-left: 0;
+  list-style-image: url('/img/file.png');
+}
+
 .list-inline {
   padding-left: 0;
   list-style: none;
