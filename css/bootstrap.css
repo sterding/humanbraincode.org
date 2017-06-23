@@ -371,7 +371,7 @@ img {
   border-radius: 50%;
 }
 
-.img-circle-border {
+.img-circleborder {
   border-radius: 50%;
   display: inline-block;
   height: auto;
@@ -383,7 +383,7 @@ img {
   -webkit-transition: all 0.2s ease-in-out;
           transition: all 0.2s ease-in-out;
 }
-.img-circle-border:hover {
+.img-circleborder:hover {
   border-radius: 50%;
   display: inline-block;
   height: auto;
