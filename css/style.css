@@ -19,8 +19,8 @@ h3.text-muted a:hover { text-decoration: none; color: #0088cc; }
 
 /* title */
 .title { font-size:60px; font-family:'Nixie One', Georgia, Times;}
-.title a {text-decoration: none; color: #999999; }
-.title a:hover { text-decoration: none; color: #ff0000; }
+.title a {text-decoration: none;  }
+.title a:hover { text-decoration: none; }
 
 img.avatar { margin-bottom: 30px; }
 		
