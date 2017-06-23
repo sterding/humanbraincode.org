@@ -1483,6 +1483,8 @@ th {
 
 .table .table {
   background-color: #ffffff;
+  table-layout: fixed;
+  word-wrap: break-word;
 }
 
 .table-condensed thead > tr > th,
