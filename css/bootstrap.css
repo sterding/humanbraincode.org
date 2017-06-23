@@ -367,20 +367,11 @@ img {
           transition: all 0.2s ease-in-out;
 }
 
-.img-thumbnail:hover {
-  display: inline-block;
-  height: auto;
-  max-width: 100%;
-  padding: 4px;
-  line-height: 1.428571429;
-  background-color: #ffffff;
-  border: 1px solid #ff0000;
-  border-radius: 4px;
-  -webkit-transition: all 0.2s ease-in-out;
-          transition: all 0.2s ease-in-out;
+.img-circle {
+  border-radius: 50%;
 }
 
-.img-circle {
+.img-circle-border {
   border-radius: 50%;
   display: inline-block;
   height: auto;
@@ -392,6 +383,19 @@ img {
   -webkit-transition: all 0.2s ease-in-out;
           transition: all 0.2s ease-in-out;
 }
+.img-circle-border:hover {
+  border-radius: 50%;
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  padding: 4px;
+  line-height: 1.428571429;
+  background-color: #ffffff;
+  border: 1px solid #ff0000;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+}
+
 
 hr {
   margin-top: 20px;
