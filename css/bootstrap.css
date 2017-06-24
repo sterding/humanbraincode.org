@@ -211,6 +211,8 @@ textarea {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  table-layout: fixed;
+  word-wrap: break-word;
 }
 
 @media print {
@@ -1440,6 +1442,8 @@ pre code {
 table {
   max-width: 100%;
   background-color: transparent;
+  table-layout: fixed;
+  word-wrap: break-word;
 }
 
 th {
