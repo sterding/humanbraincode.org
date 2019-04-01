@@ -1,0 +1,16 @@
+---
+layout: default
+title: Download
+download: active
+description: Download processed data for the BRAINcode project.
+---
+<div class="download">
+
+<h3>Raw data</h3>
+<p>Raw data for this project, incl. RNAseq, genotyping, and clinical data, can be downloaded via dbGaP Accession: <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001556.v1.p1">phs001556.v1.p1</a></p>
+
+<h3>Processed data</h3>
+<p>We are happy to collaborate if anyone are interested in any processed data from this project.</p>
+
+
+</div>
